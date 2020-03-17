@@ -106,6 +106,9 @@ To this end it will be necessary to understand in more detail what is preventing
 ## Research Methodology
 
 > TBD
+//comments from Bruno: methodology can be inherited eg from Design Science
+// check http://content.schweitzer-online.de/static/catalog_manager/live/media_files/representation/zd_std_orig__zd_schw_orig/014/341/402/9781441956521_content_pdf_1.pdf p. 16 bottom
+// -> assess environment, elicit problems (relevance cycle), build design artefacts and evaluate them (design cycle), ground the whole think (rigor cycle). 
 
 [TOP](#title)
 
